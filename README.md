@@ -1,1 +1,1 @@
-# vb.nert-QRcode-generator
+# vb.net-QRcode-generator
