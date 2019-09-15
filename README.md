@@ -1,2 +1,0 @@
-# vb.nert QRcode generator
- 
