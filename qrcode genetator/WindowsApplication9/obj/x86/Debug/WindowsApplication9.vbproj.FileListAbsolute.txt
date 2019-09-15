@@ -1,0 +1,20 @@
+C:\Users\Chethan Kumar\Desktop\time pass\WindowsApplication9\WindowsApplication9\bin\Debug\WindowsApplication9.exe
+C:\Users\Chethan Kumar\Desktop\time pass\WindowsApplication9\WindowsApplication9\bin\Debug\WindowsApplication9.pdb
+C:\Users\Chethan Kumar\Desktop\time pass\WindowsApplication9\WindowsApplication9\bin\Debug\WindowsApplication9.xml
+C:\Users\Chethan Kumar\Desktop\time pass\WindowsApplication9\WindowsApplication9\obj\x86\Debug\WindowsApplication9.vbprojResolveAssemblyReference.cache
+C:\Users\Chethan Kumar\Desktop\time pass\WindowsApplication9\WindowsApplication9\obj\x86\Debug\WindowsApplication9.Form1.resources
+C:\Users\Chethan Kumar\Desktop\time pass\WindowsApplication9\WindowsApplication9\obj\x86\Debug\WindowsApplication9.Resources.resources
+C:\Users\Chethan Kumar\Desktop\time pass\WindowsApplication9\WindowsApplication9\obj\x86\Debug\WindowsApplication9.vbproj.GenerateResource.Cache
+C:\Users\Chethan Kumar\Desktop\time pass\WindowsApplication9\WindowsApplication9\obj\x86\Debug\WindowsApplication9.exe
+C:\Users\Chethan Kumar\Desktop\time pass\WindowsApplication9\WindowsApplication9\obj\x86\Debug\WindowsApplication9.xml
+C:\Users\Chethan Kumar\Desktop\time pass\WindowsApplication9\WindowsApplication9\obj\x86\Debug\WindowsApplication9.pdb
+C:\Users\Chethan Kumar\Desktop\time pass\qrcode genetator\WindowsApplication9\obj\x86\Debug\WindowsApplication9.vbprojResolveAssemblyReference.cache
+C:\Users\Chethan Kumar\Desktop\time pass\qrcode genetator\WindowsApplication9\obj\x86\Debug\WindowsApplication9.vbproj.GenerateResource.Cache
+C:\Users\Chethan Kumar\Desktop\time pass\qrcode genetator\WindowsApplication9\bin\Debug\qrcode generator.exe
+C:\Users\Chethan Kumar\Desktop\time pass\qrcode genetator\WindowsApplication9\bin\Debug\qrcode generator.pdb
+C:\Users\Chethan Kumar\Desktop\time pass\qrcode genetator\WindowsApplication9\bin\Debug\qrcode generator.xml
+C:\Users\Chethan Kumar\Desktop\time pass\qrcode genetator\WindowsApplication9\obj\x86\Debug\qrcode_genetator.Form1.resources
+C:\Users\Chethan Kumar\Desktop\time pass\qrcode genetator\WindowsApplication9\obj\x86\Debug\qrcode_genetator.Resources.resources
+C:\Users\Chethan Kumar\Desktop\time pass\qrcode genetator\WindowsApplication9\obj\x86\Debug\qrcode generator.exe
+C:\Users\Chethan Kumar\Desktop\time pass\qrcode genetator\WindowsApplication9\obj\x86\Debug\qrcode generator.xml
+C:\Users\Chethan Kumar\Desktop\time pass\qrcode genetator\WindowsApplication9\obj\x86\Debug\qrcode generator.pdb
